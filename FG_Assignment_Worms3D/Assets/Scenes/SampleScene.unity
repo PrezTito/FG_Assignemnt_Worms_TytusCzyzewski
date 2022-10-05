@@ -2500,6 +2500,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   youWon1: {fileID: 533177810}
   youWon2: {fileID: 1541330099}
+  player1: {fileID: 0}
+  player2: {fileID: 0}
 --- !u!43 &2109518200
 Mesh:
   m_ObjectHideFlags: 0
